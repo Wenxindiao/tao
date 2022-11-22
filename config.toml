@@ -1,0 +1,4 @@
+baseURL = 'https://wenxindiao.gitee.io'
+languageCode = 'en-us'
+title = "Wentao's Blog"
+theme = "vno-hugo"
